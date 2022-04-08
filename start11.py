@@ -61,4 +61,4 @@ while end > start:
     day += 1
     print(day,'- день :',start)
 print('на',day,'- день будет пробегать не менее:',end, 'км')
-# изучение git3
+# изучение git4
